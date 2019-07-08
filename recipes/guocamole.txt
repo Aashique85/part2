@@ -7,3 +7,4 @@ Ice Cube
 mint1
 Tomato
 Onion
+Potatto
