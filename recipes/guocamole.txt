@@ -1,5 +1,6 @@
 1 Kg G
 1 Tin Su
+<<<<<<< HEAD
 Lime Juice
 Glass of Water
 pinch of Salt
@@ -8,3 +9,5 @@ mint1
 Tomato
 Onion
 Potatto
+Hello Woorld 1:wq
+tomato
